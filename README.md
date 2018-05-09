@@ -26,4 +26,7 @@ attachInterrupt(digitalPinToInterrupt(MICPIN), turnOn, RISING);
 
 I'll be using [Adafruit's NeoPixel library][1] to interface with the LEDs.
 
+![import np lib img][2]
+
 [1]: https://github.com/adafruit/Adafruit_NeoPixel
+[2]: https://github.com/bourgeois27/audio-visualizer/blob/master/import-neopixxel-library.png "Import NeoPixel Library"
